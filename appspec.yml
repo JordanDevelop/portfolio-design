@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
- - source: /www
-   destination: /var/www/html/www
- - source: /index.php
-   destination: /var/www/html/index.php
+ - source: /home/ubuntu/portfolio-design
+   destination: /var/www/html/portfolio-design
+ - source: /home/ubuntu/portfolio-design/index.html
+   destination: /var/www/html/index.html
